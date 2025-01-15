@@ -19,4 +19,5 @@ using the YOLOv5 model using 100 epochs and a batch size of 8. The metrics of th
 <h4><samp>Dataset: https://public.roboflow.com/object-detection/pothole</samp></h4>
 
 <h4><samp>Lastly, since the model is trained on a very small dataset, it does not work perfectly. For better results, i recommend fine-tuning this 
-to a bigger dataset size and type! Thank you! <img src="https://media.giphy.com/media/v2duI9CVxpw1ivPfki/giphy.gif" alt="Bye GIF" width="35" /></samp></h4>
+to a bigger dataset size and type!</samp></h4>
+<h3 align = "center"><samp>Thank you!</samp> <img src="https://media.giphy.com/media/v2duI9CVxpw1ivPfki/giphy.gif" alt="Bye GIF" width="35" /></h3>
