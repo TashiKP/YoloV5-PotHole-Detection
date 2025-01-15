@@ -16,4 +16,7 @@ using the YOLOv5 model using 100 epochs and a batch size of 8. The metrics of th
 <img src = "https://github.com/TashiKP/YoloV5-PotHole-Detection/blob/main/Training%20Information/val_batch0_pred.jpg" width = "100%">
 <h4><samp>The model shows steady improvement in both training and validation losses, indicating successful learning. While the validation loss fluctuates slightly, this is expected when evaluating unseen data. Precision and recall both improve, with precision reducing false positives and recall ensuring most objects are detected. The mAP metrics (0.5 and 0.5:0.95) also improve, suggesting the model performs well across different detection thresholds</samp></h4>
 
+<h4><samp>Dataset: https://public.roboflow.com/object-detection/pothole</samp></h4>
 
+<h4><samp>Lastly, since the model is trained on a very small dataset, it does not work perfectly. For better results, i recommend fine-tuning this 
+to a bigger dataset size and type! Thank you! <img src="https://media.giphy.com/media/v2duI9CVxpw1ivPfki/giphy.gif" alt="Bye GIF" width="35" /></samp></h4>
